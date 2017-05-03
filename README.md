@@ -19,5 +19,6 @@ $ npm run dev
 $ ykit pack -m
 ```
 
-## 关于 ykit
-访问 https://github.com/YMFE/ykit 来获取更多文档。
+## 相关链接
+- ykit: https://github.com/YMFE/ykit
+- ant-design: https://github.com/ant-design/ant-design

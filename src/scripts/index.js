@@ -9,6 +9,11 @@ class HelloMessage extends React.Component {
                 <h1>{this.props.name}</h1>
                 <Card title="Card Component" style={{ width: 300 }}>
                     <p>
+                        <a href="https://ant.design/index-cn" target="_blank">
+                            Visit ant-design doc
+                        </a>
+                    </p>
+                    <p>
                         <a href="http://ued.qunar.com/ykit/index.html" target="_blank">
                             Visit ykit doc
                         </a>
