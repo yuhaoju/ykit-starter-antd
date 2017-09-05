@@ -4,12 +4,13 @@
   "description": "ykit ant-design 示例工程",
   "main": "index.js",
   "scripts": {
-    "dev": "cd .. && ykit server -p 8080",
+    "start": "ykit server -p 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ykit-config-antd": "^0.1.1"
+    "antd": "^2.12.8",
+    "ykit-config-antd": "^1.1.0"
   }
 }

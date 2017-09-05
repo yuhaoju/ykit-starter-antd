@@ -3,6 +3,7 @@
 
 body{
     overflow: hidden;
+    font-size: 16px;
 }
 
 #app {
@@ -12,17 +13,17 @@ body{
     color: #2c3e50;
 }
 
-h1,
-h2 {
-    margin: 100px 0 20px;
+h1{
+    margin: 0px 0 20px;
     font-weight: normal;
 }
 
 a {
-    font-size: 14px;
-    color: #444;
+    display: block;
+    color: #2891e0;
 }
 
 .ant-card {
     margin: 0 auto;
+    font-size: 16px;
 }

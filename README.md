@@ -1,24 +1,23 @@
 # ykit-starter-antd
-ykit ant-design 示例工程
+YKit-Antd Design 示例工程
 
 ## Getting Started
 ```
 $ git clone https://github.com/roscoe054/ykit-starter-antd.git
 $ cd ykit-starter-antd
-$ npm install 或者 yarn install
+$ npm install 或者 yarn
 ```
 
 ## Run Dev
 ```
-$ npm run dev
+$ npm start
 ```
-访问 http://127.0.0.1:8080/ykit-starter-antd/index.html
+访问 http://127.0.0.1:3000/index.html
 
 ## Build
 ```
 $ ykit pack -m
 ```
 
-## 相关链接
-- ykit: https://github.com/YMFE/ykit
-- ant-design: https://github.com/ant-design/ant-design
+## 关于 ykit
+访问 https://ykit.ymfe.org 来获取更多文档

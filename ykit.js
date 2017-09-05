@@ -8,6 +8,5 @@ module.exports = {
         modifyWebpackConfig: function(baseConfig) {
             return baseConfig;
         }
-    },
-    hooks: {}
+    }
 };
